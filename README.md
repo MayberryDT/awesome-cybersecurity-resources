@@ -56,6 +56,7 @@
 - `Decipher Security Podcast` : [_Spotify_](https://open.spotify.com/show/3XsgM8xpvhr2SIL7Aqpmqa) - [_Apple Podcasts_](https://podcasts.apple.com/gb/podcast/decipher-security-podcast/id1443911339)
 - `ESET Research` : [_Spotify_](https://open.spotify.com/show/1WDjY2A3A3s5FKycrOVkhg) - [_Apple Podcasts_](https://podcasts.apple.com/us/podcast/eset-research-podcast/id1596306608)
 - `ESET - Speakeasy Security ` : [_Spotify_](https://open.spotify.com/show/7bfg0yzV1XtAWtsEevf9ne) - [_Apple Podcasts_](https://podcasts.apple.com/us/podcast/speakeasy-security/id1513485919)
+- `Google Cloud Security - Behind the Binary` : [_Spotify_](https://open.spotify.com/show/3yWgmIuhWPtmTDFWDovtlc) - [_Apple Podcasts_](https://podcasts.apple.com/us/podcast/behind-the-binary-by-google-cloud-security/id1777589687)
 - `Hacking Humans` : [_Spotify_](https://open.spotify.com/show/0EhUctIPJiKrxPjzqIAuDc) - [_Apple Podcasts_](https://podcasts.apple.com/us/podcast/hacking-humans/id1391915810)
 - `Intel 471 - Out of the Woods` : [_Spotify_](https://open.spotify.com/show/2HlWPJmu3ctbvUX1FXB6UI) - [_Apple Podcasts_](https://podcasts.apple.com/us/podcast/out-of-the-woods-the-threat-hunting-podcast/id1643725696)
 - `Kaspersky - Transatlantic Cable` : [_Spotify_](https://open.spotify.com/show/1VGCKlOoQ9C24dJiCHGTK5) - [_Apple Podcasts_](https://podcasts.apple.com/us/podcast/transatlantic-cable-podcast/id909407206)    
